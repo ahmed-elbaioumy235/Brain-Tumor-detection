@@ -1,0 +1,1 @@
+The Brain Tumor Image Classification web application provides a valuable tool for healthcare professionals to assist in the diagnosis and treatment of brain tumors. By leveraging deep learning and web technologies, the application offers a seamless and efficient solution for analyzing MRI images and providing accurate tumor classification
